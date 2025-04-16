@@ -1,3 +1,5 @@
+Step 1: CONTAINERIZED LINK EXTRACTOR SCRIPT
+
 # Link Extractor: Step 1
 
 A basic page scraping script that prints out all the hyper references of the given web page.
