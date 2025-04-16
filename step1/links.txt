@@ -1,0 +1,12 @@
+https://twitter.com/intent/tweet?text=Play with Docker Classroom&url=https://training.play-with-docker.com/&via=docker&related=docker
+https://facebook.com/sharer.php?u=https://training.play-with-docker.com/
+https://plus.google.com/share?url=https://training.play-with-docker.com/
+http://www.linkedin.com/shareArticle?mini=true&url=https://training.play-with-docker.com/&title=Play%20with%20Docker%20Classroom&source=https://training.play-with-docker.com
+https://www.docker.com/dockercon/
+https://www.docker.com/dockercon/
+https://dockr.ly/slack
+https://www.docker.com/legal/docker-terms-service
+https://www.docker.com
+https://www.facebook.com/docker.run
+https://twitter.com/docker
+https://www.github.com/play-with-docker/play-with-docker.github.io
